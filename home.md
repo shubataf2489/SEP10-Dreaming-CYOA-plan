@@ -1,8 +1,9 @@
-# Special-Abilities
-## Home
+# SEP10-Dreaming-CYOA-plan
+### Special-Abilities
+#### Home
 ---
-Select a Superpower:
+Select what you want to do:
 ## [Choose-the-red-pills](choose-the-red-pills/red-pill.md/)
-## [superpowers](superpowers/get-struck-by-lightening.md/)
+## [Superpowers](superpowers/get-struck-by-lightening.md/)
 
 ---
