@@ -1,11 +1,12 @@
 
 # SEP10-Dreaming-CYOA-plan
-## Get struck by lightening --> Turn left
+## Special-Abilities
+### Get struck by lightening --> Turn left
 ---
-You got hurt by a car good job!
+You got hurt by a car. Good job!
 
 ---
-[Go back before turning left](get-struck-by-lightening.md)
+[Go back ](get-struck-by-lightening.md)
 
 [Next](wake-up.md)
 
