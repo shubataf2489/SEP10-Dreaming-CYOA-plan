@@ -3,7 +3,7 @@
 ---
 You are able to read minds!
 Choices:
-## [You apply for a job as a translator with high pay](become a translator.md)
-## [Become a spy for other countries]()
+## [You read your teachers mind](teacher.md)
+## [you read your classmates minds](classmates.md)
 ---
 [Start Over](../home.md)

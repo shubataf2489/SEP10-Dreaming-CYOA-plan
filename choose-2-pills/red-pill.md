@@ -1,10 +1,10 @@
 # SEP10-Dreaming-CYOA-plan
-## you have to take a red pill
+## choose a pill
 ---
-You became a master at all languages!
+You have immortality!
 Choices:
-## [You apply for a job as a translator with high pay](translator.md)
-## [Become a spy for other countries](become-a-spy.md)
+## [you live for at least a decade](decade.md)
+## [you decide to play with your life for for fun](play.md)
 ---
 [Start Over](../home.md)
 

@@ -3,7 +3,7 @@
 #### Home
 ---
 Select what you want to do:
-## [Choose-the-red-pills](choose-the-red-pills/red-pill.md/)
+## [Choosea-pills](choose-2-pills/red-pill.md/)
 ## [Superpowers](superpowers/get-struck-by-lightening.md/)
 
 ---
