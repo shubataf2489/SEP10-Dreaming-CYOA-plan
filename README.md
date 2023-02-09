@@ -7,7 +7,14 @@ Click [here](home.md) to begin!
 
 
 
-In this adventure you will choose what how you want to get you powers. You can either choose to get a pill or get struck by lighting.
+In this adventure you will choose what how you want to get you powers in your dream. You can either choose to get a pill or get struck by lighting.
 Each of theses thing will give you a superpower and later on it will give choices on what you want ot do with your power.
 
+
+
+First you will be given a choose to either choose superpowers or eat a pill. Both opions will give you powers.
+
+ If you choose superpowers you will get hit by lightening and get superspeed
+ Then with your power you will choose what you want to do with them.
+You can either save a grandma from getting it by a car or turn a blind eye and ignore her. After you make you chose it will show you the result of it and then you will wake up
 
