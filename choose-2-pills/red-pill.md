@@ -2,7 +2,7 @@
 ## choose a pill
 
 --
-Options
+Option
 You can read minds!
 
 You read in everyones minds at once and it becomes too intense for you too handle with all the energy so you die.
