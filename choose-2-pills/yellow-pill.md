@@ -1,9 +1,12 @@
 # SEP10-Dreaming-CYOA-plan
-## you choose the yellow pill
----
-You are able to read minds!
-Choices:
-## [You read your teachers mind](teacher.md)
-## [you read your classmates minds](classmates.md)
----
+## choose a pill
+
+--
+Options
+You can control peoples minds
+
+Since you are a failing student you decide to control all of your teachers mind into giving you 100's in your classes and you pass.
+
+[Thats it!](wake-up.md)
+
 [Start Over](../home.md)
